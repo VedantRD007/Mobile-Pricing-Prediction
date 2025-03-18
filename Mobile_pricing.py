@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor, Grad
 import os
 
 # Set working directory
-os.chdir('C:/Vedant/Int-data/Phone Pricing/Mobile Phone Pricing')
+os.chdir('your working directory location')
 
 # Load the dataset
 phone = pd.read_csv("dataset.csv")

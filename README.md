@@ -17,10 +17,6 @@ This project is a **Mobile Phone Price Classification** model built using **Rand
 
 ## 🗂 Repository Structure
 
-## 📺 Screenshots
-### Gradio Interface
-![Gradio Interface](C:\Vedant\Gitdemo\Mobile-Pricing-Prediction\Screenshoot\Gradio_interface.png)
-
 Mobile-Price-Classification/
 │-- dataset.csv        # Mobile phone dataset
 │-- mobile_pricing.py  # Model training and tuning script
@@ -28,7 +24,7 @@ Mobile-Price-Classification/
 │-- mobile_gr.p        # Gradio interface for inference
 │-- requirements.txt   # Dependencies
 │-- README.md          # Project documentation
-│-- screenshots/       # Sample outputs and visualizations
+
 ```
 
 ## 📝 Dataset

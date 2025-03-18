@@ -16,12 +16,11 @@ This project is a **Mobile Phone Price Classification** model built using **Rand
 ✅ **Pickle model storage** for deployment.  
 
 ## 🗂 Repository Structure
-
 Mobile-Price-Classification/
 │-- dataset.csv        # Mobile phone dataset
-│-- mobile_pricing.py  # Model training and tuning script
+│-- model_training.py  # Model training and tuning script
 │-- mobile.pkl         # Saved trained model
-│-- mobile_gr.p        # Gradio interface for inference
+│-- app.py             # Gradio interface for inference
 │-- requirements.txt   # Dependencies
 │-- README.md          # Project documentation
 

@@ -80,7 +80,5 @@ gradio
 ```
 
 
-## ✨ Contributors
-- **Your Name** - Developer & ML Engineer
-
-Feel free to submit PRs and suggestions to improve this project! 🚀
+## 🤝 Contributing
+Feel free to submit pull requests for improvements! Contributions are always welcome.

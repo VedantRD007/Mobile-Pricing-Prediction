@@ -19,7 +19,7 @@ This project is a **Mobile Phone Price Classification** model built using **Rand
 
 ## 📺 Screenshots
 ### Gradio Interface
-![Gradio Interface](Screenshoot\Gradio_interface.png)
+![Gradio Interface](C:\Vedant\Gitdemo\Mobile-Pricing-Prediction\Screenshoot\Gradio_interface.png)
 
 Mobile-Price-Classification/
 │-- dataset.csv        # Mobile phone dataset

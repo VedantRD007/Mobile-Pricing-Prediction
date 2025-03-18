@@ -16,6 +16,7 @@ This project is a **Mobile Phone Price Classification** model built using **Rand
 ✅ **Pickle model storage** for deployment.  
 
 ## 🗂 Repository Structure
+```
 Mobile-Price-Classification/
 │-- dataset.csv        # Mobile phone dataset
 │-- model_training.py  # Model training and tuning script

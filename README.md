@@ -16,7 +16,11 @@ This project is a **Mobile Phone Price Classification** model built using **Rand
 ✅ **Pickle model storage** for deployment.  
 
 ## 🗂 Repository Structure
-```
+
+## 📺 Screenshots
+### Gradio Interface
+![Gradio Interface](Screenshoot\Gradio_interface.png)
+
 Mobile-Price-Classification/
 │-- dataset.csv        # Mobile phone dataset
 │-- mobile_pricing.py  # Model training and tuning script
